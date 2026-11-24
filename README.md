@@ -37,4 +37,4 @@ Historical stock market data is retrieved from Yahoo Finance.
 ### Author
 Muhammads Tahir
 
-BDA400 – Big Data Analytics
+BDA400 – Data Science Tools and Techniques

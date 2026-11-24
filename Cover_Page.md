@@ -28,4 +28,4 @@ Users can select stock symbols, date ranges, and timeframes and analyze market d
 - TTR
 - dplyr
 
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/danishhassan662-byte/BDA400_Assignment-6
